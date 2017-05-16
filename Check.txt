@@ -1,2 +1,2 @@
 Hello World !! Nice to see some changes
-We are now learining the commit
+We are now learning the commit
